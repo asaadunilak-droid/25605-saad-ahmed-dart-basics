@@ -12,3 +12,4 @@ Assignment files:
 - `momo_sim.dart`: Part F mini project
 - `answers.pdf`: trace answers, explanations, Part E, and Part G debugging log
 - `STATUS.md`: progress update
+Run each Dart file separately in DartPad.
