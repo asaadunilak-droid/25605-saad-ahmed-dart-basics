@@ -74,6 +74,7 @@ int buyAirtime(int balance, int amount) {
 
 void main() {
   // by AMS
+  // This function chooses the correct fee based on the transfer amount.
   print('Reg no: $regNo | D = $d | T = $t');
   print("isValidPin('12345'): ${isValidPin('12345')}");
   print("isValidPin('77777'): ${isValidPin('77777')}");
