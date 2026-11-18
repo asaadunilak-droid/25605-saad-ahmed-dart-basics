@@ -16,10 +16,10 @@
 - E: corrected functions, changed lines, and Level choice recorded.
 - F: simulator output, transaction explanation, and tests recorded.
 - G: three debugging entries and the Part F longest-question reflection recorded.
-- Local repository: seven descriptive commits created.
+- descriptive commits; fewer than six are visible on GitHub.
 
 ## In progress
-- Public GitHub repository created at github.com/asaadunilak-droid/25605-saad-ahmed-dart-basics; uploading files is pending.
+- All required assignment files have been uploaded to the public GitHub repository
 
 ## Stuck on
-- Command-line push cannot connect to GitHub from this environment. Browser upload is available, but each uploaded batch makes a separate GitHub commit; the assignment requires at least six commits.
+-GitHub currently shows fewer than six commits; the assignment requires at least six
