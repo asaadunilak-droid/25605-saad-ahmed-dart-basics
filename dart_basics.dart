@@ -53,6 +53,7 @@ void drawTriangle(int height) {
 
 int momoFee(int amount) {
   // by AMS
+  // This function chooses the correct fee based on the transfer
   if (amount <= 0) return -1;
   if (amount <= 1000) return 20;
   if (amount <= 10000) return 100;
